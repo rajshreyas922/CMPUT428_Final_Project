@@ -13,3 +13,4 @@ Example:
 - dlib
 - numpy
 - scipy
+- For the facial features tracker, make sure to have the model in the same directory as well. The moddel can be downloaded from https://github.com/italojs/facial-landmarks-recognition
