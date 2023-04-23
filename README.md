@@ -7,7 +7,7 @@ Example:
 `python code/main.py --img0 images/bradpitt.png --img1 images/image013.png --alpha 0.5`
 
 # #Requirements:
-OpenCV
+`OpenCV
 dlib
 numpy
-scipy
+scipy`
