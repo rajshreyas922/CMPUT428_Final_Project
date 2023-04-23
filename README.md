@@ -6,7 +6,7 @@ To run the file use the following command:
 Example:
 `python code/main.py --img0 images/bradpitt.png --img1 images/image013.png --alpha 0.5`
 
-# #Requirements:
+## Requirements:
 - OpenCV
 - dlib
 - numpy
